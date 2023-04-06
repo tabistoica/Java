@@ -1,0 +1,5 @@
+zahar;1.5;50
+detergent;9.2;100
+ciocolata;9.9;80
+muraturi;12.1;200
+pui;15.6;800
