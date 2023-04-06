@@ -1,0 +1,19 @@
+Someone told me long ago 5 9   0.40280086
+There's a calm before the storm 6 9   0.582464
+I know 2 2   0.71329296
+It's been comin' for some time 6 10   0.30456442
+When it's over, so they say 6 7 * 0.6664466
+It'll rain a sunny day 5 6 * 0.11215943
+I know 2 2   0.3336953
+Shinin' down like water 4 7   0.7850369
+I want to know, have you ever seen the rain 10 15   0.3229484
+I want to know, have you ever seen the rain 10 15   0.12193483
+Comin' down on a sunny day 6 7 * 0.71351063
+YESTERDAY, AND DAYS BEFORE 4 8   0.0055757165
+Sun is cold and rain is hard 7 8   0.84572536
+I KNOW 2 2   0.04430163
+BEEN THAT WAY FOR ALL MY TIME 7 8   0.059910238
+'Til forever, on it goes 5 8   0.7576695
+Through the circle, fast and slow 6 8   0.27445596
+I know 2 2   0.2740531
+It can't stop, I wonder 5 6   0.37842524
